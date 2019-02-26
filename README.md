@@ -1,5 +1,4 @@
-#The Guessing Game
-
+# The Guessing Game
 
 Thanks for checking out my guessing game.
 In it, you will try to guess the number of files in the directory.
