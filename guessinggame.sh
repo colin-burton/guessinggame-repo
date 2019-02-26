@@ -1,5 +1,3 @@
-#File: guessinggame.sh
-
 #Getting the number of files in the working directory and saving it as a variable
 file_num=$(ls | wc -l)
 
@@ -31,6 +29,4 @@ do
 	makeGuess
 done
 
-#Prompting the user for a final input so the program doesn't end immediately after a corrct guess
-echo "Hit Enter to quit"
-read quitVar
+echo -e "\n"
